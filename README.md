@@ -1,0 +1,2 @@
+# emotional-analysis-CNN
+CNN-DEEP-LEARNING-KERAS-TENSORFLOW
